@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+    margin-top:1.6rem
+    margin: auto;
+}
+
+
+input{
+    border-radius: 1.6rem;
+    border: 0.2rem solid #244624;
+    font-size:2rem;
+    height: 5rem;
+    width: 39rem;
+}
+
+button{
+    border-radius: 1.7rem;
+    font-size: 2.3rem;
+    background: #9fa08f;
+    width: 9rem;
+    height: 4rem;
+    margin: 0.6rem;
+}
+
+.calculator{ 
+    border: 0.3rem solid #13695d;
+    background-color: #3687c9;
+    padding: 1.5rem;
+    border-radius: 4rem;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#history1{
+    display: none;
+}
+
+
+#data1{
+    margin-top: 0.01px;
+    margin-bottom: 0.01px;
+    font-size: 2rem;
+    margin: auto;
+}
